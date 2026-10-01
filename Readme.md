@@ -76,7 +76,7 @@ The application provides options for different image-generation models, includin
 
 ## 📂 Project Structure
 
-
+```text
 AI-Image-Generator/
 │
 ├── images/
@@ -86,7 +86,7 @@ AI-Image-Generator/
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ---
 
