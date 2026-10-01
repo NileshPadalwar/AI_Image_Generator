@@ -95,13 +95,13 @@ AI-Image-Generator/
 ### 1. Clone the Repository
 
 
-git clone https://github.com/YOUR_USERNAME/AI-Image-Generator.git
-```
+git clone https://github.com/NileshPadalwar/AI_Image_Generator.git
+
 
 ### 2. Navigate to the Project
 
 
-cd AI-Image-Generator
+cd AI_Image_Generator
 
 
 ### 3. Add Hugging Face API Key
@@ -151,9 +151,9 @@ Describe the image you want to generate.
 
 Example:
 
-```text
+
 A futuristic city with flying cars, neon lights and skyscrapers at night
-```
+
 
 ### Step 2 — Select an AI Model
 
