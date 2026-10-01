@@ -164,10 +164,10 @@ Choose an available model from the model dropdown.
 Choose between:
 
 
-1 Image
-2 Images
-3 Images
-4 Images
+- 1 Image
+- 2 Images
+- 3 Images
+- 4 Images
 
 
 ### Step 4 — Select Aspect Ratio
@@ -175,9 +175,9 @@ Choose between:
 Choose:
 
 \
-Square (1:1)
-Landscape (16:9)
-Portrait (9:16)
+- Square (1:1)
+- Landscape (16:9)
+- Portrait (9:16)
 
 
 ### Step 5 — Generate
@@ -283,7 +283,7 @@ Feel free to use the project as a reference for learning HTML, CSS, JavaScript, 
 
 **Nilesh Padalwar**
 
-Frontend Developer | Angular Developer | JavaScript Developer
+Frontend Developer | Angular Developer | 
 
 ---
 
