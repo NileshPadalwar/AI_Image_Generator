@@ -7,8 +7,9 @@ Users can select an AI model, choose the number of images, select an aspect rati
 ---
 
 ## 🚀 Live Demo
-
-🔗 https://aiimagegenerator-ashen.vercel.app/
+<a href="https://aiimagegenerator-ashen.vercel.app/" target="_blank">
+  🔗 Open AI Image Generator
+</a>
 
 ---
 
