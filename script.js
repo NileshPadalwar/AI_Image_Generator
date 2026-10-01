@@ -12,7 +12,7 @@ const gridGallery = document.querySelector(".gallery-grid");
 const generateBtn = document.querySelector(".generate-btn");
 
 // Hugging Face API Token
-const API_KEY = "Your API Key";
+const API_KEY = "YOUR_HUGGING_FACE_TOKEN";
 
 // Hugging Face Client
 const hf = new InferenceClient(API_KEY);

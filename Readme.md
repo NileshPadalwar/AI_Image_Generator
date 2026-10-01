@@ -16,9 +16,9 @@ Users can select an AI model, choose the number of images, select an aspect rati
 
 Add your project screenshot here:
 
-```markdown
+
 ![AI Image Generator Preview](images/preview.png)
-```
+
 
 ---
 
@@ -76,7 +76,7 @@ The application provides options for different image-generation models, includin
 
 ## 📂 Project Structure
 
-```text
+
 AI-Image-Generator/
 │
 ├── images/
@@ -86,7 +86,7 @@ AI-Image-Generator/
 ├── style.css
 ├── script.js
 └── README.md
-```
+
 
 ---
 
@@ -94,35 +94,34 @@ AI-Image-Generator/
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/YOUR_USERNAME/AI-Image-Generator.git
 ```
 
 ### 2. Navigate to the Project
 
-```bash
+
 cd AI-Image-Generator
-```
+
 
 ### 3. Add Hugging Face API Key
 
 Open:
 
-```text
+
 script.js
-```
+
 
 Find:
 
-```javascript
+
 const API_KEY = "";
-```
+
 
 Add your Hugging Face API token:
 
-```javascript
 const API_KEY = "YOUR_HUGGING_FACE_TOKEN";
-```
+
 
 ### 4. Run the Project
 
@@ -164,22 +163,22 @@ Choose an available model from the model dropdown.
 
 Choose between:
 
-```text
+
 1 Image
 2 Images
 3 Images
 4 Images
-```
+
 
 ### Step 4 — Select Aspect Ratio
 
 Choose:
 
-```text
+\
 Square (1:1)
 Landscape (16:9)
 Portrait (9:16)
-```
+
 
 ### Step 5 — Generate
 
@@ -218,9 +217,9 @@ The application supports both:
 
 The selected theme is saved in the browser using:
 
-```javascript
+
 localStorage;
-```
+
 
 This means the user's theme preference remains available when they revisit the application.
 
